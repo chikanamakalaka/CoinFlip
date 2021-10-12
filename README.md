@@ -1,2 +1,2 @@
-# coin
-flips coin
+# CoinFlip
+Flips Coin
